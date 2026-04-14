@@ -1,23 +1,28 @@
-# VulnCon 2026 — CVE-Decaf: Brewing Better and More Actionable Data Quality
+# VulnCon 2026: CVE-Decaf
 
-This repository contains the slides and paper for the talk presented at **VulnCon 2026**.
+Brewing better, more actionable CVE data quality.
 
-## Talk Details
+This repository hosts the conference paper for the VulnCon 2026 session on CVE data quality and the CVE Data Quality Assessment Framework (CVE-DQAF).
 
-**Title:** CVE-Decaf: Brewing Better and More Actionable Data Quality
+## Session Overview
 
-**Conference:** [VulnCon 2026](https://www.first.org/conference/vulncon26/program#pCVE-Decaf-Brewing-Better-and-More-Actionable-Data-Quality)
+- Title: CVE-Decaf: Brewing Better and More Actionable Data Quality
+- Conference: [VulnCon 2026](https://www.first.org/conference/vulncon26/program#pCVE-Decaf-Brewing-Better-and-More-Actionable-Data-Quality)
+- Presented by: [CVEDQAF](https://github.com/CVEDQAF)
 
-**Presented by:** [CVEDQAF](https://github.com/CVEDQAF)
+## Repository Contents
 
-## Contents
-
-| File | Description |
+| Asset | Description |
 |------|-------------|
-| [slides.pdf](slides.pdf) | Presentation slides |
-| [paper.pdf](paper.pdf) | Full talk / paper |
+| [paper.pdf](CVE%20Data%20Quality%20Assessment%20Framework%20-%20Draft%20Paper.pdf) | Paper |
 
 ## Abstract
 
-This talk explores data quality challenges in the CVE ecosystem and presents the CVE Data Quality Assessment Framework (CVE-DQAF) — a framework for brewing better and more actionable CVE data.
+High-quality CVE data is foundational to vulnerability management, risk prioritization, and ecosystem trust. This session examines systemic data quality challenges in the CVE landscape and introduces the CVE Data Quality Assessment Framework (CVE-DQAF), a practical approach for evaluating and improving CVE data quality at scale.
+
+## Why This Work Matters
+
+- Better CVE data quality improves downstream security decisions.
+- Clear quality signals reduce analyst friction and ambiguity.
+- Consistent assessment methods support measurable ecosystem improvements.
 
